@@ -11,7 +11,7 @@ import java.util.Properties;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
-public class   FestivalType extends UDF { 
+public class   FestivalType extends UDF {
     private HashMap<String,String> festivalMap = new HashMap<String, String>();
 
     public FestivalType() throws IOException {
